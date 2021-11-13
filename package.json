@@ -1,0 +1,25 @@
+{
+  "name": "line-bot-stein-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mitsuoka0423/line-bot-stein-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitsuoka0423/line-bot-stein-sample/issues"
+  },
+  "homepage": "https://github.com/mitsuoka0423/line-bot-stein-sample#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^7.4.0",
+    "express": "^4.17.1",
+    "stein-js-client": "^0.0.2"
+  }
+}
