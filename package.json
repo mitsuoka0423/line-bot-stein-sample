@@ -19,7 +19,7 @@
   "homepage": "https://github.com/mitsuoka0423/line-bot-stein-sample#readme",
   "dependencies": {
     "@line/bot-sdk": "^7.4.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "stein-js-client": "^0.0.2"
   }
 }
